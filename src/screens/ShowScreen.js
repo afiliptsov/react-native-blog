@@ -8,7 +8,7 @@ const ShowScreen = ({navigation}) => {
 
     //Broke Here
     const blogPost = state.find((blogPost) => blogPost.id === navigation.getParam(id));
-    //Broke 
+    //Broke 1
 
 
 
